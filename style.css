@@ -539,6 +539,23 @@ footer{
 }
 
 @media only screen and (min-width: 300px) and (max-width: 1366px) {
+
+
+  @keyframes homeCursorText {
+    0%, 33%, 100%{
+      width: 0;
+    }
+  
+    65%, 78%, 85% {
+      width: 100%;
+      opacity: 1;
+    }
+  
+    75%, 85% {
+      opacity: 0;
+    }
+  }
+
     #menu{
       display: block;
     }
