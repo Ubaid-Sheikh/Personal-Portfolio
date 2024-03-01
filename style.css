@@ -491,7 +491,7 @@ footer{
       cursor: pointer;
 }
 
-@media only screen and (min-width: 400px) and (max-width: 1366px) {
+@media only screen and (min-width: 300px) and (max-width: 1366px) {
     #menu{
       display: block;
     }
