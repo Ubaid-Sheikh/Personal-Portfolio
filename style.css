@@ -102,6 +102,7 @@ section {
   background-image: linear-gradient(var(--main-color), var(--main-color));
   background-repeat: no-repeat;
   -webkit-background-clip: text;
+  background-clip: none;
   background-position: 0 0;
   animation: homeBgText 6s linear infinite;
   /* animation-delay: 0.5s; */
