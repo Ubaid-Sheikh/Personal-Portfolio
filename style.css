@@ -590,17 +590,8 @@ footer{
     }
     
     
-    form{
-      padding: 20px;
-    }
-
-    .contact {
-      width: 100%;
-    }
-
-    footer{
-      width: 100%;
-    }
+   
+   
 
 @media (max-width: 780px){
   #menu{
@@ -752,6 +743,9 @@ footer{
   }
   .about{
     padding: 10px;
+  }
+  footer{
+    text-align: center;
   }
 }
 
